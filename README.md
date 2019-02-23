@@ -1,13 +1,12 @@
 You can run this for Korean based on
  - around 20 hours data, wholly composed of elementary school( age from 7 to 2 )
      . around 25,000 utterences overall.    
- - with pre-built features and transcribed files ( Raw speech is distributed from  http://155.230.104.192/wordpress/ with license policy )
+ - with pre-built features and transcribed files 
+ - Raw speech is distributed from  http://155.230.104.192/wordpress/ with license policy.
  - accurracy of around 65% with 20 hours children speech.
  - accucrracy of aorund 95% with totallly 470 hours ( with in-house 450 hours data )
  - more data of elderly 10,000 utterences will be included.
 
-
-=============================================================================================================================
 The following articles are from original master (espnet/espnet )
 
 # ESPnet: end-to-end speech processing toolkit
